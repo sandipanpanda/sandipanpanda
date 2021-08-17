@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am Sandipan 👨‍💻
 
 <!--
 **sandipanpanda/sandipanpanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Random Dev Quote:
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
+[![Visits Badge](https://badges.pufler.dev/visits/sandipanpanda/sandipanpanda)](https://badges.pufler.dev)
+
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandipanpanda&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandipanpanda&show_icons=true&count_private=true&theme=midnight-purple&icon_color=39FF14)](https://github.com/anuraghazra/github-readme-stats)
+
+#### Random Dev Meme (I love them!😉):
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=15r9hago3i35ghe87n7duv6vy&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=15r9hago3i35ghe87n7duv6vy&redirect=true)
