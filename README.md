@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandipanpanda&show_icons=true&count_private=true&theme=midnight-purple&icon_color=39FF14)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Just a Random Dev Meme 😆:
+#### A Random Dev Meme 😆: 
 
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
+Liked it? Refresh the page for a new one! 😉
