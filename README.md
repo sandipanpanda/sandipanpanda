@@ -1,5 +1,7 @@
 ### Hi there 👋, I am Sandipan 👨‍💻
 
+I am a student pursuing my Bachelor's in Computer Science. I enjoy collaborating with people on developing software, and I believe open source is the best way to achieve this. I love promoting the same among my peers. 
+
 <!--
 **sandipanpanda/sandipanpanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
