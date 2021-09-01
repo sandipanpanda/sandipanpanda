@@ -3,6 +3,8 @@
 I enjoy collaborating with people on developing software 👨‍💻
 
 Mentee in community manager group mentoring cohort at [Kubernetes](https://kubernetes.io/)
+
+↗️ Learning Golang, Kubernetes
 <!--
 **sandipanpanda/sandipanpanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
