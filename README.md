@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Visits Badge](https://badges.pufler.dev/visits/sandipanpanda/sandipanpanda)](https://badges.pufler.dev)
+[![Visitors Badge](https://badges.pufler.dev/visits/sandipanpanda/sandipanpanda)](https://badges.pufler.dev)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandipanpanda&show_icons=true&count_private=true&theme=midnight-purple&icon_color=39FF14)](https://github.com/anuraghazra/github-readme-stats)
+[![Sandipan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandipanpanda&show_icons=true&count_private=true&theme=midnight-purple&icon_color=39FF14)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandipanpanda&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sandipanpanda&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sandipanpanda&theme=vision-friendly-dark)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sandipanpanda&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
