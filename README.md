@@ -28,3 +28,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandipanpanda&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sandipanpanda&theme=vision-friendly-dark)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sandipanpanda&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
