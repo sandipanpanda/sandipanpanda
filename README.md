@@ -1,3 +1,5 @@
+<p align="center">
+
 <img src="https://github.com/sandipanpanda/sandipanpanda/blob/main/Images%26GIFs/HelloGIF.gif" alt="### Hi there 👋, I am Sandipan Panda 🦸" width="400" height="400">
 
 I enjoy collaborating with people on developing software 👨‍💻
@@ -30,3 +32,5 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sandipanpanda&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
 [![GitHub trophy](https://github-profile-trophy.vercel.app/?username=sandipanpanda&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+</p>
