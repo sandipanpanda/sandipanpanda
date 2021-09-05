@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://github.com/sandipanpanda/sandipanpanda/blob/main/Images%26GIFs/HelloGIF.gif" alt="### Hi there 👋, I am Sandipan Panda 🦸" width="200" height="200">
+<img src="https://github.com/sandipanpanda/sandipanpanda/blob/main/Images%26GIFs/HelloGIF.gif" alt="### Hi there 👋, I am Sandipan Panda 🦸" width="300" height="300">
 
 I enjoy collaborating with people on developing software 👨‍💻
   
