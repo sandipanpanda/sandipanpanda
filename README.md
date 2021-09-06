@@ -1,4 +1,4 @@
-<img src="https://github.com/sandipanpanda/sandipanpanda/blob/main/Images%26GIFs/HelloGIF.gif" alt="### Hi there 👋, I am Sandipan Panda 🦸" width="300" height="300">
+<img src="ImagesGIFs/HelloGitHub.gif" alt="Hi there 👋, I am Sandipan Panda 🦸" width="300" height="300">
 
 I enjoy collaborating with people on developing software 👨‍💻
   
