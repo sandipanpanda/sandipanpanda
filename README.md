@@ -8,11 +8,7 @@ I enjoy collaborating with people on developing software 👨‍💻
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) 
 
 Mentee in community manager group mentoring cohort at [Kubernetes](https://kubernetes.io/)
-  
-👨‍💻 I’m currently learning: 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
+ 
 <!--
 **sandipanpanda/sandipanpanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -26,6 +22,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandipanpanda&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+
+👨‍💻 I’m currently learning: 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 -->
 
 [![Visitors Badge](https://badges.pufler.dev/visits/sandipanpanda/sandipanpanda)](https://badges.pufler.dev)
