@@ -1,15 +1,15 @@
 <img src="ImagesGIFs/HelloGitHub.gif" alt="Hi there 👋, I am Sandipan Panda 🦸" width="300" height="300">
 
-I enjoy collaborating with people on developing software 👨‍💻
+- I enjoy collaborating with people on developing software 👨‍💻
 
-Participant in 30 Days of ![https://events.withgoogle.com/30daysofgooglecloud/](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) challange
+- Participant in 30 Days of ![https://events.withgoogle.com/30daysofgooglecloud/](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) challange
 
 ### My Tools & Technologies
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) 
 
-Mentee in community manager group mentoring cohort at [Kubernetes](https://kubernetes.io/)
+- Mentee in community manager group mentoring cohort at [Kubernetes](https://kubernetes.io/)
  
 <!--
 **sandipanpanda/sandipanpanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
