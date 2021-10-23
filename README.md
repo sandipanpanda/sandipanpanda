@@ -2,7 +2,7 @@
  
 - I enjoy collaborating with people on developing software 👨‍💻
 - Participant in 30 Days of ![https://events.withgoogle.com/30daysofgooglecloud/](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) challange
-- Mentee in community manager group mentoring cohort at [Kubernetes](https://kubernetes.io/)
+
 
 ### My Tools & Technologies
 
@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+- Mentee in community manager group mentoring cohort at [Kubernetes](https://kubernetes.io/)
 -->
 
 [![Visitors Badge](https://badges.pufler.dev/visits/sandipanpanda/sandipanpanda)](https://badges.pufler.dev)
