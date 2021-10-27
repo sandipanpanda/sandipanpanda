@@ -1,8 +1,6 @@
 <img src="ImagesGIFs/HelloGitHub.gif" alt="Hi there 👋, I am Sandipan Panda 🦸" width="100%" height="100%">
  
 - I enjoy collaborating with people on developing software 👨‍💻
-- Participant in 30 Days of ![https://events.withgoogle.com/30daysofgooglecloud/](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) challange
-
 
 ### My Tools & Technologies
 
