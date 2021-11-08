@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 -->
 
 [![Visitors Badge](https://badges.pufler.dev/visits/sandipanpanda/sandipanpanda)](https://badges.pufler.dev)
-
 ![Open-source-badge](https://img.shields.io/badge/-I%20%E2%9D%A4%EF%B8%8F%20Open%20Source-brightgreen)
 
 [![Sandipan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandipanpanda&show_icons=true&count_private=true&theme=midnight-purple&icon_color=39FF14)](https://github.com/anuraghazra/github-readme-stats)
@@ -40,5 +39,3 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sandipanpanda&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
 [![GitHub trophy](https://github-profile-trophy.vercel.app/?username=sandipanpanda&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
-<a class="twitter-timeline" href="https://twitter.com/MeetSandipan?ref_src=twsrc%5Etfw">Tweets by MeetSandipan</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
