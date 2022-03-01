@@ -34,6 +34,9 @@ Here are some ideas to get you started:
 -->
 
 [![Visitors Badge](https://badges.pufler.dev/visits/sandipanpanda/sandipanpanda)](https://badges.pufler.dev)
+
+<img src="ImagesGIFs/nyantocat.gif" alt=:octocat: width="20%" height="20%">
+
 ![Open-source-badge](https://img.shields.io/badge/-I%20%E2%9D%A4%EF%B8%8F%20Open%20Source-brightgreen)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sandipanpanda&theme=vision-friendly-dark)](https://git.io/streak-stats)
