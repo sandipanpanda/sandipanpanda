@@ -32,6 +32,6 @@ I enjoy collaborating with people on developing software :man_technologist:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sandipanpanda&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
-[![Sandipan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandipanpanda&show_icons=true&count_private=true&theme=midnight-purple&icon_color=39FF14)](https://github.com/anuraghazra/github-readme-stats)
+[![Sandipan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandipanpanda&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&icon_color=39FF14)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub trophy](https://github-profile-trophy.vercel.app/?username=sandipanpanda&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
