@@ -30,7 +30,7 @@ I enjoy collaborating with people on developing software :man_technologist:
 
 ![Open-source-badge](https://img.shields.io/badge/-I%20%E2%9D%A4%EF%B8%8F%20Open%20Source-brightgreen)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sandipanpanda&theme=vision-friendly-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sandipanpanda&theme=neon-blurange)]()
 
 [![Sandipan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandipanpanda&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&icon_color=39FF14)](https://github.com/anuraghazra/github-readme-stats)
 
