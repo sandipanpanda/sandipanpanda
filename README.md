@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 <img src="images/hello.gif" alt="Hi there! I am Sandipan:superhero:" width="50%" height="50%"/>
 
-I enjoy collaborating with people on developing software :man_technologist:
+I enjoy collaborating with people on developing software 👨‍💻
 
-## [My Portfolio:superhero:](https://sandipanpanda.github.io/)
+## [My Portfolio](https://sandipanpanda.github.io/)📄
 
 ## My Tools & Technologies :hammer_and_wrench: :gear:
 
