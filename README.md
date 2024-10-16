@@ -18,15 +18,10 @@ Here are some ideas to get you started:
 
 I enjoy collaborating with people on developing software 👨‍💻
 
-## [My Portfolio](https://sandipanpanda.github.io/)📄
-
 ## My Tools & Technologies :hammer_and_wrench: :gear:
 
-<img src="images/python.svg" alt="Python" style="height:4rem;width:4rem;"/> <img src="images/html5.svg" alt="HTML" style="height:4rem;width:4rem;"/> <img src="images/css3.svg" alt="CSS" style="height:4rem;width:4rem;"/> <img src="images/javascript.svg" alt="JavaScript" style="height:4rem;width:4rem;"/> <img src="images/go.svg" alt="Go" style="height:4rem;width:4rem;"/> <img src="images/docker.svg" alt="Docker" style="height:4rem;width:4rem;"/> <img src="images/git.svg" alt="Git" style="height:4rem;width:4rem;"/>
+<img src="images/go.svg" alt="Go" style="height:4rem;width:4rem;"/> <img src="images/python.svg" alt="Python" style="height:4rem;width:4rem;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="height:4rem;width:4rem;"/> <img src="images/html5.svg" alt="HTML" style="height:4rem;width:4rem;"/> <img src="images/css3.svg" alt="CSS" style="height:4rem;width:4rem;"/> <img src="images/javascript.svg" alt="JavaScript" style="height:4rem;width:4rem;"/>  <img src="images/docker.svg" alt="Docker" style="height:4rem;width:4rem;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" style="height:4rem;width:4rem;"/> <img src="images/git.svg" alt="Git" style="height:4rem;width:4rem;"/>
 <img src="images/bash.svg" alt="Bash" style="height:4rem;width:4rem;"/> <img src="images/linux.svg" alt="Linux" style="height:4rem;width:4rem;"/>
-
-## Connect with me: :envelope:
-<a href="https://twitter.com/meetsandipan" target="_blank"><img src="images/twitter.svg" style="height:3rem;width:3rem"></a>
 
 ![Open-source-badge](https://img.shields.io/badge/-I%20%E2%9D%A4%EF%B8%8F%20Open%20Source-brightgreen)
 
